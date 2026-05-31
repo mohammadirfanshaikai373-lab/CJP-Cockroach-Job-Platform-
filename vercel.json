@@ -1,6 +1,7 @@
 {
-  "buildCommand": null,
-  "outputDirectory": "dist",
+  "buildCommand": "npm run build:web",
+  "outputDirectory": "web-build",
+  "installCommand": "npm install",
   "rewrites": [
     {
       "source": "/((?!_expo|assets|.*\\..*).*)",
