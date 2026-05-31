@@ -14,7 +14,7 @@ Why CJP Connect?
 ✅ Events & Challenges – Join company‑hosted coding challenges and virtual workshops. Win prizes and skip HR rounds.
 ✅ Dark Mode & Privacy – Choose anonymous mode for sensitive questions, control who sees your profile.
 
-Perfect for:
+Perfect for: 
 
 Students & fresh graduates looking for first jobs.
 
